@@ -1,6 +1,6 @@
 ### Hi there 👋,  I am David Guzman
 #### Full Stack Developer
-![Full Stack Developer](https://davidguzman.dev/DavidProfile.png)
+![Full Stack Developer]<p align="center"><img src="https://davidguzman.dev/DavidProfile.png"></p>
 
 I am  passionate about crafting exceptional **websites** that captivate and engage your audience. With me expertise in *web development* and *design*, I bring your ideas to life, ensuring a seamless user experience. Whether you need a stunning new website, a captivating redesign, or reliable maintenance, I’ve got you covered. Let’s collaborate and turn your vision into reality.
 
@@ -10,5 +10,6 @@ Skills: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/davidguzmandev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/david-gzro//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://davidguzman.dev/)  
+
 
 
