@@ -1,5 +1,5 @@
 ### Hi there 👋,  I am David Guzman
-#### Full Stack Developer
+#### Frontend Developer
 <p align="center"><img src="https://davidguzman.dev/v2/DavidProfile.png"></p>
 
 I am  passionate about crafting exceptional **websites** that captivate and engage your audience. With me expertise in *web development* and *design*, I bring your ideas to life, ensuring a seamless user experience. Whether you need a stunning new website, a captivating redesign, or reliable maintenance, I’ve got you covered. Let’s collaborate and turn your vision into reality.
